@@ -1,0 +1,45 @@
+body{
+  background-color: #fff;
+  text-align: center;
+}
+.heading-h1{
+  font-family: "Great vibes";
+  font-size: 5rem;
+}
+.bg-nav{
+  font-family: montserrat;
+  background-color: #6f42c1;
+}
+ navbar-brand a{
+fomt-family: Great Vibes;
+  font-size: 1.5rem;
+}
+
+.carousel {
+  background-color: powderblue;
+
+}
+ img{
+    top:0;
+    /* left:30%; */
+  //width: 50%;
+
+}
+.box-1{
+
+   font-family: 'Great Vibes', cursive;
+  background-color: #be79df;
+}
+.box-2{
+  background-color: #ef962d;
+}
+.box-3{
+  background-color: #f3c623;
+  height: 17rem;
+}
+/* .body-img{
+  boder-radius:15px;
+} */
+.mid-row{
+  background-color: #f4eeff;
+}
