@@ -1,4 +1,4 @@
-FROM slim147/devserver
+FROM hshar/webapp
 
 RUN rm /var/www/html/index.html
 
@@ -16,4 +16,4 @@ ADD ./img/200.JPG /var/www/html/img
 
 ADD ./css/style.css /var/www/html/css
 
-CMD apachectl -D FOREGROUND
+
