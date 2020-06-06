@@ -1,4 +1,4 @@
-FROM slim147/devserver
+FROM hshar/webapp
 
 RUN mkdir  /var/www/html/css
 
